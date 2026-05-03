@@ -1,0 +1,7 @@
+{
+  "name": "data-agents",
+  "description": "Internal data & ML agents",
+  "version": "1.0.0",
+  "agents": "agents/",
+  "skills": "skills/"
+}
