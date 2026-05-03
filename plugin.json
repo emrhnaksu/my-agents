@@ -12,19 +12,32 @@
     "type": "git",
     "url": "https://github.com/emrhnaksu/my-agents"
   },
-  "agents": "agents/",
-  "skills": "skills/",
+  "agents": [
+    {
+      "name": "data-engineer",
+      "path": "agents/data-engineer.agent.md",
+      "description": "Senior data engineer for designing and optimizing data pipelines"
+    }
+  ],
+  "skills": [
+    {
+      "name": "spark-optimizer",
+      "path": "skills/spark-optimizer/SKILL.md",
+      "description": "Optimize Spark jobs for better performance"
+    }
+  ],
   "engines": {
-    "vscode": "^1.85.0"
+    "copilot-cli": "^1.0.0"
   },
   "categories": [
     "AI",
-    "Chat"
+    "Data Engineering"
   ],
   "keywords": [
     "agent",
     "copilot",
     "data",
-    "ml"
+    "ml",
+    "spark"
   ]
 }
