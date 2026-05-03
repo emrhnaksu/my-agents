@@ -1,7 +1,30 @@
 {
   "name": "data-agents",
-  "description": "Internal data & ML agents",
+  "displayName": "Data & ML Agents",
+  "description": "Internal data & ML agents for data engineering and optimization",
   "version": "1.0.0",
+  "publisher": "emrhnaksu",
+  "author": {
+    "name": "emrhnaksu"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emrhnaksu/my-agents"
+  },
   "agents": "agents/",
-  "skills": "skills/"
+  "skills": "skills/",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "keywords": [
+    "agent",
+    "copilot",
+    "data",
+    "ml"
+  ]
 }
