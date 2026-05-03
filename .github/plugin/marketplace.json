@@ -1,0 +1,19 @@
+{
+  "name": "data-agents-marketplace",
+  "owner": {
+    "name": "Emirhan AKSU",
+    "email": "112195334+emrhnaksu@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Data and ML agent plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "data-agents",
+      "description": "Internal data & ML agents for data engineering and optimization",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
