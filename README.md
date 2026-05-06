@@ -37,6 +37,13 @@ my-agents/
 - **Task**: Help design and optimize data pipelines
 - **Focus**: Practical solutions, concise recommendations
 
+### ml Engineer
+- **Role**: Senior ml engineer
+- **Task**: Help design and optimize ml pipelines
+- **Focus**: Practical solutions, concise recommendations
+
+
+
 ## Skills
 
 ### Spark Optimizer
