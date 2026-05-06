@@ -17,6 +17,11 @@
       "name": "data-engineer",
       "path": "agents/data-engineer.agent.md",
       "description": "Senior data engineer for designing and optimizing data pipelines"
+    },
+    {
+      "name": "ml-engineer",
+      "path": "agents/ml-eng.agent.md",
+      "description": "Senior ml engineer for designing and optimizing ml pipelines"
     }
   ],
   "skills": [
@@ -31,7 +36,8 @@
   },
   "categories": [
     "AI",
-    "Data Engineering"
+    "Data Engineering",
+    "ML"
   ],
   "keywords": [
     "agent",
