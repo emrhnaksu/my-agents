@@ -22,6 +22,11 @@
       "name": "ml-engineer",
       "path": "agents/ml-eng.agent.md",
       "description": "Senior ml engineer for designing and optimizing ml pipelines"
+    },
+    {
+      "name": "test-engineer",
+      "path": "agents/test-eng.agent.md",
+      "description": "Senior test engineer for designing and optimizing test pipelines"
     }
   ],
   "skills": [
