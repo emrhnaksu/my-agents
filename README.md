@@ -1,4 +1,4 @@
-# Data & ML Agents
+# Data & ML & Test Agents
 
 Internal Copilot agent plugin for data engineering and ML optimization.
 
@@ -25,6 +25,8 @@ my-agents/
 ├── plugin.json           # Plugin manifest
 ├── agents/
 │   └── data-engineer.agent.md    # Data engineer role definition
+│   └── ml-engineer.agent.md    # ml engineer role definition
+│   └── test-engineer.agent.md    # test engineer role definition
 └── skills/
     └── spark-optimizer/
         └── SKILL.md      # Spark optimization skill
@@ -40,6 +42,11 @@ my-agents/
 ### ml Engineer
 - **Role**: Senior ml engineer
 - **Task**: Help design and optimize ml pipelines
+- **Focus**: Practical solutions, concise recommendations
+
+### test Engineer
+- **Role**: Senior test engineer
+- **Task**: Help design and optimize test pipelines
 - **Focus**: Practical solutions, concise recommendations
 
 
